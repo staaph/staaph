@@ -31,4 +31,4 @@ I am a Full Stack Developer currently located in Germany
   <img src="./img/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staaph)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staaph&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

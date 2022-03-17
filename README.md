@@ -2,13 +2,13 @@
 
 ---
 
-###About Me
+### About Me
 
 I am a Full Stack Developer currently located in Germany
 
 ---
 
-###Language and Tools
+### Language and Tools
 
 <div>
   <img src="./img/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;

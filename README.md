@@ -32,6 +32,7 @@ I am a Full Stack Developer currently located in Germany
   <img src="./img/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="./img/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="./img/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" title="prisma" alt="prisma" width="40" height="40"/>&nbsp;
 </div>
 
 <br/>

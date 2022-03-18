@@ -11,11 +11,13 @@ I am a Full Stack Developer currently located in Germany
 ### Languages and Tools
 
 <div>
+  https://vitejs.dev/logo.svg
   <img src="./img/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="./img/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="./img/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="./img/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="./img/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./img/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
   <img src="./img/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="./img/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;

@@ -29,6 +29,8 @@ I am a Full Stack Developer currently located in Germany
   <img src="./img/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="./img/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="./img/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="./img/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="./img/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
 <br/>

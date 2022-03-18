@@ -11,7 +11,6 @@ I am a Full Stack Developer currently located in Germany
 ### Languages and Tools
 
 <div>
-  https://vitejs.dev/logo.svg
   <img src="./img/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="./img/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="./img/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;

@@ -4,7 +4,8 @@
 
 ### About Me
 
-I am a Full Stack Developer currently located in Germany
+I am a Full Stack Developer currently located in Germany.
+My focus is on providing beautifully crafted designs paired with a great user experience.
 
 ---
 

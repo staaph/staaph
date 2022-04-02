@@ -34,8 +34,6 @@ My focus is on providing beautifully crafted designs paired with a great user ex
   <img src="./img/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="./img/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" title="prisma" alt="prisma" width="40" height="40"/>&nbsp;
-  <img src="./img/heroku-original.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="./img/vercel-logotype-dark.svg" title="vercel" alt="vercel" width="40" height="40"/>&nbsp;
 </div>
 
 <br/>

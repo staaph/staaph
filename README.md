@@ -29,7 +29,6 @@ My focus is on providing beautifully crafted designs paired with a great user ex
   <img src="./img/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./img/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="./img/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="./img/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="./img/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="./img/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="./img/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;

@@ -37,4 +37,4 @@ My focus is on providing beautifully crafted designs paired with a great user ex
 
 <br/>
 
-[![Top Langs](github-readme-stats-ahyavhxfl-staaph.vercel.app/api/top-langs/?username=staaph&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-staaph.vercel.app/api/top-langs/?username=staaph&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

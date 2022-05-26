@@ -20,7 +20,6 @@ My focus is on providing beautifully crafted designs paired with a great user ex
   <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./img/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
   <img src="./img/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
-  <img src="./img/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="./img/nestjs-plain.svg" title="Nestjs" alt="Nestjs" width="40" height="40"/>&nbsp;
   <img src="./img/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="./img/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -29,7 +28,6 @@ My focus is on providing beautifully crafted designs paired with a great user ex
   <img src="./img/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./img/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="./img/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="./img/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="./img/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="./img/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="./img/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;

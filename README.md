@@ -9,6 +9,8 @@
   <img src="./img/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="./img/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="./img/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="./img/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
+  <img src="./img/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="./img/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./img/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
@@ -22,8 +24,6 @@
   <img src="./img/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="./img/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="./img/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="./img/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="./img/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
 </div>
 
 <br/>

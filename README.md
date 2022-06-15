@@ -29,4 +29,3 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats-staaph.vercel.app/api/top-langs/?username=staaph&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/staaph)
-.
